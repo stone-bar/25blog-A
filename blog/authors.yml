@@ -21,3 +21,12 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+    
+stone:
+  name: stone-wu
+  title: SICU doctor
+  url: https://github.com/stone-bar
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    github: stone-bar
