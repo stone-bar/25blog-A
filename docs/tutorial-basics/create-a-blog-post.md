@@ -26,7 +26,7 @@ authors:
 tags: [greetings]
 ---
 
-Congratulations, you have made your first post!
+Congratulations, you have made your first post! 恭喜恭喜
 
 Feel free to play around and edit this post as much as you like.
 ```

@@ -14,6 +14,7 @@ Here are a few tips you might find useful.
 Simply add Markdown files (or folders) to the `blog` directory.
 
 Regular blog authors can be added to `authors.yml`.
+作者名稱可以在檔案找到
 
 The blog post date can be extracted from filenames, such as:
 
@@ -21,6 +22,7 @@ The blog post date can be extracted from filenames, such as:
 - `2019-05-30-welcome/index.md`
 
 A blog post folder can be convenient to co-locate blog post images:
+這也是問題， blog 圖片放的位置 ？
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
