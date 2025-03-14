@@ -2,7 +2,7 @@
 /node_modules
 
 # Production
-/build
+# /build
 
 # Generated files
 .docusaurus
@@ -21,12 +21,12 @@ yarn-error.log*
 
 # Node.js
 node_modules/
-package-lock.json
-yarn.lock
+# package-lock.json
+# yarn.lock
 
 # Docusaurus
 .docusaurus/
-build/
+# build/
 
 # OS generated files
 .DS_Store
